@@ -2,7 +2,7 @@
 
 
 git add .
-git commit -m "@"
+git commit -m ":boom:"
 git push origin
 
 pause
